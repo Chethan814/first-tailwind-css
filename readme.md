@@ -2,7 +2,7 @@
 
 Welcome to my first Tailwind CSS project repository! This project is a landing page template coded with Tailwind CSS.
 
-![Project Preview](<img src=='\brand-logos\perview.png'>)
+![Project Preview](first-tailwind-css\brand-logos\perview.png)
 
 ## Project Overview
 
