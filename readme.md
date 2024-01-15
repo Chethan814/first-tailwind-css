@@ -2,7 +2,7 @@
 
 Welcome to my first Tailwind CSS project repository! This project is a landing page template coded with Tailwind CSS.
 
-![Project Preview](https://uicookies.com/wp-content/uploads/2020/04/Easy.jpg)
+![Project Preview](first-tailwind-css\brand-logos\perview.png)
 
 ## Project Overview
 
@@ -10,6 +10,7 @@ Welcome to my first Tailwind CSS project repository! This project is a landing p
 - **Live Demo:** [First Tailwind CSS Landing Page](https://chethan814.github.io/first-tailwind-css/)
 
 ## Description
+
 
 This repository contains the code for a landing page template created with Tailwind CSS. The project focuses on applying visual styling using Tailwind CSS utility classes.
 
